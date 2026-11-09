@@ -35,6 +35,3 @@ Project Features
 
 Student Information
 
-- Student Name: YOUR NAME
-- Student Number: YOUR STUDENT NUMBER
-- Institution: Kigali Independent University (ULK)
